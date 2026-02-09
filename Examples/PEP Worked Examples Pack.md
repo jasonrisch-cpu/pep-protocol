@@ -396,6 +396,311 @@ PEP supports generosity without self-erasure.
 
 ---
 
+Example 11 — Weaponized PEP (Failure Mode)
+
+Category: Misuse / Identity Capture
+Purpose: Show how PEP can be incorrectly used to shame or coerce
+
+Context
+
+A seller has calculated their PEP floor correctly and is negotiating with a buyer.
+
+The buyer says they cannot afford the floor price.
+
+Misuse
+
+The seller responds:
+
+> “PEP says you’re exploiting me if you won’t pay my floor.”
+
+
+
+This reframes the buyer’s budget constraint as a moral failure.
+
+Why This Is a Violation
+
+PEP governs your pricing, not other people’s capacity.
+
+Turning PEP into a moral accusation:
+
+fuses identity with price
+
+converts refusal into blame
+
+introduces coercion
+
+collapses trust
+
+
+This violates core design principles:
+
+Identity decoupling
+
+Exit safety
+
+Voluntary exchange
+
+
+Correction
+
+The correct responses are:
+
+Offer scope reduction
+(“At that budget, I can do a smaller version.”)
+
+Offer delay
+(“Let’s revisit this later.”)
+
+Or part ways cleanly
+(“I understand. This may not be a fit.”)
+
+
+No apology.
+No accusation.
+No pressure.
+
+Lesson
+
+PEP is not a weapon.
+If someone cannot meet your floor, the exchange simply does not occur.
+
+
+---
+
+Example 12 — Envelope Worship (Failure Mode)
+
+Category: Rigidity / Formula Fixation
+Purpose: Show how over-reliance on the envelope creates paralysis
+
+Context
+
+A maker prices work at 6C and receives 10 consecutive rejections.
+
+Misuse
+
+The maker says:
+
+> “The formula says 6C, so I won’t budge.”
+
+
+
+They refuse to reassess anything.
+
+Why This Is a Violation
+
+The envelope is a calibration tool, not a law.
+
+Rigid adherence indicates:
+
+doubt hindrance disguised as certainty
+
+avoidance of feedback
+
+fear of recalibration
+
+
+PEP requires iteration, not obedience.
+
+Correction
+
+Run the Market Diagnostic:
+
+1. Audit C
+Are costs honest? Inflated? Missing?
+
+
+2. Audit Audience
+Is this the right market segment?
+
+
+3. Audit Framing
+Is value communicated clearly?
+
+
+4. Audit Viability
+If the market cannot support 3C, this work may not be economically viable here.
+
+
+
+Adjust presentation or context first.
+Exit if necessary.
+
+Lesson
+
+The envelope guides judgment. It does not replace it.
+
+
+---
+
+Example 13 — Ceiling Chasing (Failure Mode)
+
+Category: Status Distortion / Extraction Drift
+Purpose: Show misuse of the ceiling as a prestige target
+
+Context
+
+A consultant prices consistently at 12C.
+
+They justify it as “positioning” and “signaling quality.”
+
+Warning Signs
+
+Defensive when rates are questioned
+
+Afraid to publish prices publicly
+
+Constant comparison to competitors
+
+Anxiety about being “undervalued”
+
+
+Why This Is a Violation
+
+In PEP, the ceiling is a warning boundary, not a goal.
+
+Chasing the ceiling often indicates:
+
+identity entanglement
+
+status anxiety
+
+fear-based scarcity logic
+
+
+If pricing feels tense during the ±10 sweep, it is not neutral.
+
+Correction
+
+Return to calibration:
+
+Run full ±10 actuation
+
+Notice where defensiveness arises
+
+Identify the clean midpoint
+
+
+High prices are allowed.
+Distorted prices are not.
+
+Lesson
+
+If the ceiling feels exciting instead of neutral, you’re already past it.
+
+
+---
+
+Example 14 — Multi-Mode Practitioner (Healthy Adaptation)
+
+Category: Legitimate Mode Switching
+Purpose: Demonstrate flexible, correct use of multiple PEP modes
+
+Context
+
+A designer does two types of work:
+
+Client services
+
+Product sales
+
+
+They use different PEP modes appropriately.
+
+
+---
+
+Client Work — Mode B (Hourly)
+
+Cost Basis (C):
+
+Life maintenance included
+
+C = $40/hour
+
+
+Envelope:
+
+Floor: $120/hr
+
+Center: $240/hr
+
+Ceiling: $480/hr
+
+
+Chosen Price:
+$200/hour
+
+Clean. Sustainable. Accepted by clients.
+
+
+---
+
+Print Sales — Mode A (Unit Cost)
+
+Cost Basis (C):
+
+Materials + production only
+
+C = $15/print
+
+
+Envelope:
+
+Floor: $45
+
+Center: $90
+
+Ceiling: $180
+
+
+Chosen Price:
+$75/print
+
+Affordable, repeatable, low-friction.
+
+---
+
+Result
+
+No internal conflict
+
+No customer confusion
+
+No identity leakage
+
+
+Mode choice reflects cost structure, not convenience.
+
+Lesson
+
+Mode-switching is healthy when it tracks reality, not avoidance.
+
+
+---
+
+Summary: Why These Examples Matter
+
+These examples show that PEP can fail if:
+
+it is moralized
+
+it is rigidified
+
+it is gamified
+
+it is used for dominance
+
+
+They also show that PEP succeeds when it is used as intended:
+
+to regulate the self
+
+to surface clean signals
+
+to preserve voluntary exchange
+
+to maintain dignity on all sides
+
 Pattern Summary
 
 Across all examples:
